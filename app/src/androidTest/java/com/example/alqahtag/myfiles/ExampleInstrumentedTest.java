@@ -1,4 +1,4 @@
-package com.example.alqahtag.mysharedpreferences;
+package com.example.alqahtag.myfiles;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
